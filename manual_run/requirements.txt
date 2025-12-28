@@ -1,0 +1,8 @@
+pandas
+numpy
+networkx
+osmnx
+geopy
+flask
+flask_cors
+python-dotenv

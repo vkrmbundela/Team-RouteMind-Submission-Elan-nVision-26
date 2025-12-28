@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Web/Node
+node_modules/
+npm-debug.log*
+
+# Submission specific (Excluding large temp logs if any)
+simulation_debug.log
+Detailed_Simulation_Log.txt
+detailed_simulation_log.txt
+
+# Keep data and core
+!data/
+!core/
+!Website/
+!manual_run/
+!QGIS_Visualization/
+!.env
+*.graphml
